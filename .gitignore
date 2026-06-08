@@ -1,0 +1,13 @@
+# Local temporary files
+*.tmp
+*.log
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Generated media exports
+exports/
+renders/

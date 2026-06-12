@@ -1,6 +1,6 @@
 # 07 Learning Pipeline
 
-本模块用于从 YouTube / B站 / 其他公开视频教程中学习 AIGC、I2V、多参考、故事板、提示词工程相关经验。
+本模块用于从 YouTube / B站 / 微信文章 / 其他公开教程中学习 AIGC、I2V、多参考、故事板、提示词工程相关经验。
 
 这里沉淀的是“待验证经验”，不是正式规则。外部教程中的观点只能先进入本模块，不能直接写入 `01_ACTIVE_RULES/`。
 
@@ -22,6 +22,7 @@
   transcripts/
   summaries/
   extracted_rules/
+  web_sources/
   scripts/
 ```
 
@@ -29,6 +30,7 @@
 - `transcripts/`：保存字幕或转录文本。
 - `summaries/`：保存视频内容摘要。
 - `extracted_rules/`：保存从视频中提炼出的待验证经验。
+- `web_sources/`：保存用户提供的本地网页、文章配图和图转文来源资产。
 - `scripts/`：保存给 Codex 使用的执行提示词、流程提示或辅助说明。
 
 ## 视频学习流程

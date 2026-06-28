@@ -1,0 +1,4 @@
+interface:
+  display_name: "AIGC Screenplay Development"
+  short_description: "Develop AI-film scripts, continuity, assets, and handoffs"
+  default_prompt: "Use $develop-aigc-screenplay to develop an AIGC-ready screenplay and production handoff package."

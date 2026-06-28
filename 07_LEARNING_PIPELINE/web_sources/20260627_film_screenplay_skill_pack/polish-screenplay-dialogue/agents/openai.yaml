@@ -1,0 +1,4 @@
+interface:
+  display_name: "Screenplay Dialogue Polish"
+  short_description: "Polish voice, subtext, rhythm, lip-sync, and dialogue length"
+  default_prompt: "Use $polish-screenplay-dialogue to scan and selectively polish the dialogue in this locked screenplay."

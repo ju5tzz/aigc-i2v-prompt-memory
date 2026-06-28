@@ -1,0 +1,4 @@
+interface:
+  display_name: "五维度分镜"
+  short_description: "把剧本保真拆成五维度影视分镜或可复制小镜头提示词。"
+  default_prompt: "把这个剧本按五维度分镜模板用跑视频保真模式拆成分镜。"

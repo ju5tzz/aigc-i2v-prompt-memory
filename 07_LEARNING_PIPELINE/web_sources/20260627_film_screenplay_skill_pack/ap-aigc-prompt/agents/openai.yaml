@@ -1,0 +1,7 @@
+interface:
+  display_name: "AP-AIGC-prompt"
+  short_description: "Seedance and keyframe prompt craft"
+  default_prompt: "Use $ap-aigc-prompt to turn my script into cinematic AIGC storyboard prompts."
+
+policy:
+  allow_implicit_invocation: true

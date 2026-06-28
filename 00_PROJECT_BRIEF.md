@@ -1,5 +1,7 @@
 # Project Brief
 
+> Codex 启动本仓库工作时，先阅读 `00_CODEX_WORK_CONTROL.md`，再根据具体任务读取本 brief、active rules、templates 和相关案例。
+
 ## 创作者定位
 
 用户是一名 AIGC 创作者，主要需要 Codex 协助进行 I2V 提示词结构化撰写、故事板理解、镜头设计和基于实测反馈的提示词优化。

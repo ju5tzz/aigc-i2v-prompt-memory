@@ -1,0 +1,4 @@
+interface:
+  display_name: "AIGC Screenplay Drafting"
+  short_description: "Expand locked story plans into production-aware screenplay drafts"
+  default_prompt: "Use $draft-aigc-screenplay to expand my locked AIGC story plan into a screenplay draft."

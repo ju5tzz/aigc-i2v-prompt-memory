@@ -1,0 +1,4 @@
+interface:
+  display_name: "AIGC Screenplay Diagnosis"
+  short_description: "Diagnose story, audience, production, and AI-video risks"
+  default_prompt: "Use $diagnose-aigc-screenplay to diagnose this screenplay and produce an evidence-based issue register."

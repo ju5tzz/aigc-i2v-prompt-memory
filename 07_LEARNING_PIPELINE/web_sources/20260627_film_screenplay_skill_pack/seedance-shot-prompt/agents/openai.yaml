@@ -1,0 +1,4 @@
+interface:
+  display_name: "Seedance Shot Prompt"
+  short_description: "Convert storyboards into Seedance 2.0 multimodal prompts."
+  default_prompt: "Use $seedance-shot-prompt to convert my storyboard into Seedance 2.0 prompts with reference roles, timed beats, and execution-risk notes."

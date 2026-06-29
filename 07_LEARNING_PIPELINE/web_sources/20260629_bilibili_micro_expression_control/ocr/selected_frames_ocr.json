@@ -1,0 +1,98 @@
+[
+  {
+    "timestamp": 46,
+    "timestamp_hms": "00:46",
+    "frame": "D:\\Codex\\aigc-i2v-prompt-memory\\07_LEARNING_PIPELINE\\web_sources\\20260629_bilibili_micro_expression_control\\frames\\selected\\t046_frame_0024.jpg",
+    "ok": true,
+    "ocr_text": "基础表情万能提示词模板 (单人物)\nASSURE, BARS, BRAM, HSL\n@1 场景参考，[具体场景描述]\n@2 [人物名称]，[精确位置+朝向+动作]                                                @\n表情细节: BSBA, WI/ F/I), ARRAS, OG FLUC4E/ ARS /AR SEH,\n嘴巴[具体状态，如紧据/咬牙切齿/嘴角斜挑]，面部肌肉[具体状态，如紧绷/放松/太阳穴青筋微显]\n整体情绪: [核心情绪总结，如愤怒/冷峻/嘲讽/惊讶]\n人物五官、服装、武器与参考图完全一致，无变形，无穿模\n光影与场景统一，真实皮肤纹理，无过度磨皮\n过党弦欧请结局                        |",
+    "error": ""
+  },
+  {
+    "timestamp": 80,
+    "timestamp_hms": "01:20",
+    "frame": "D:\\Codex\\aigc-i2v-prompt-memory\\07_LEARNING_PIPELINE\\web_sources\\20260629_bilibili_micro_expression_control\\frames\\selected\\t080_frame_0041.jpg",
+    "ok": true,
+    "ocr_text": "map                                                        oo@=p\n虚幻引擎UE5建模风格，高精度建模演染，电影质感，光影写实\n@1 高老庄村庄小路正面场景，土路延伸向远方，路边杂草树木，清晨自然光\n@2 孙悟空龙鳞套装，站在画面右侧三分之一处，身体朝向左侧，双手握金篮棒横在身前\n表情细节: 盾毛紧锌下压，丑心形成川字纹，眼睛障孔收缩，眼神凶狠凌厉，死死盯住前方，嘴巴紧据        om               sm]\n成一条直线，牙关紧咬，面部肌肉紧绷，太阳穴青筋微微凸起\n整体情绪: BBD, FA                                                            |\n人物五官、服装、金短棒与参考图完全一致，无变形，无穿模                                         |\n光影与场景统一，真实皮肤纹理，无过度磨皮;                                                   |        ]\n@3 高以兰战神装，站在画面左侧三分之一处，身体朝向右侧，单手持三叉戟挂在地面                     omg i —\n表情细节: MEFETE, MORAG, REAL, SHOE, MBM, MH—RM 】 —         CH).     Py.\n=, AMARA, HoASSE                                                       从    Por\n整体情绪: 冷峻嘲讽，完全不把对手放在眼里     二\n人物五官、战甲、三叉戟与参考图完全一致，无变形，无穿模;                                      |        = S\n@4B/\\, WEBAS Rn, BHOSARS, Smaak                                i      ca\n表情细节: 眉毛高高挑起，眼睛睦圆，眼神慌乱心虚，嘴巴微微张开，耳采不自沉向后贴，脸上露出忌             ey        咱\n愉双好奇的神色                                                                  2%         i  ‘\n整体情绪: 心虚观望，怕被波及       ==    ess] ee     Byes    =>:               ee            By\n人物比例协调，适当虚化，突出前景主体; FES) ea — ENRON et                  | |\n\nj",
+    "error": ""
+  },
+  {
+    "timestamp": 88,
+    "timestamp_hms": "01:28",
+    "frame": "D:\\Codex\\aigc-i2v-prompt-memory\\07_LEARNING_PIPELINE\\web_sources\\20260629_bilibili_micro_expression_control\\frames\\selected\\t088_frame_0045.jpg",
+    "ok": true,
+    "ocr_text": "ae                                                        cog\n虚幻引擎UE5建模风格，高精度建模泻染，电影质感，光影写实\n@1 高老庄村庄小路正面场景，土路延伸向远方，路边杂草树木，清晨自然光\n@2 孙悟空业主套装，站在画面右侧三分之一处，身体朝向左侧，双手握金徐棒横在身前\n表情细节: MEV, MO AIFSL, AMT, RES, TETRIS, MOIR        en               =\nARES, FI, MAM, AMAA                                     ’\n整体情绪: BBE, FMA\nAMEE. BH. RURSSSMSS—N, EN, RH                                         |          .\n光影与场景统一，真实皮肤纹理，无过度麻皮;\n@3 高以兰战神装，站在画面左侧三分之一处，身体朝向右侧，单手持三叉戟挂在地面                     a A\n表情细节: METRE, ROKEAR, BRAMALL, FAM, MAS, THM 。 (直)         CHO Mr\n笑，面部肌肉放松，神态从容笃定                                                        人 ra\n整体情绪: SMM, SERENE ERE                                            4        zs\n人物五官、战甲、三叉戟与参考图完全一致，无变形，无穿模;                                      P|        = 3\n@4 猪八戒，站在两人身后远处路边，牵着@5白龙马，身体微微前倾张和                       局     Sn\n表情细节: MOON, EA, RLOM, OMAK, BATEROEM, mS             4,        |\nHEIFERS                 °                                             2%         i  \\\n整体情绪: CRIME, HR         Ry 1 a TL ES                人           外N\n人物比例协调，适当虚化，突出前景主体; Sey (UNE) eadyprd VMZS) tsleaca it                         | |",
+    "error": ""
+  },
+  {
+    "timestamp": 96,
+    "timestamp_hms": "01:36",
+    "frame": "D:\\Codex\\aigc-i2v-prompt-memory\\07_LEARNING_PIPELINE\\web_sources\\20260629_bilibili_micro_expression_control\\frames\\selected\\t096_frame_0049.jpg",
+    "ok": true,
+    "ocr_text": "o  ae                                                           <\n2a 1 | RAISE                    有\n)                                   J     4          5\noe li       Ss                                     WS\nLt BK 4  as    : :        —:                eS\n4       es  |  es Vga emda    Z            Peer\nPill            a      a Se          一-\n{     \\    aw   at fw he\nXAOS aD AT al",
+    "error": ""
+  },
+  {
+    "timestamp": 104,
+    "timestamp_hms": "01:44",
+    "frame": "D:\\Codex\\aigc-i2v-prompt-memory\\07_LEARNING_PIPELINE\\web_sources\\20260629_bilibili_micro_expression_control\\frames\\selected\\t104_frame_0053.jpg",
+    "ok": true,
+    "ocr_text": "o  a                                                           <e     .\nKE                    ewe!      - INS  :     _                        r           $        Sy\n\n;    AC  a % 4.       _ ©                oe a\n=        fe       v| \\    a Ns\n\n if) Gite At",
+    "error": ""
+  },
+  {
+    "timestamp": 124,
+    "timestamp_hms": "02:04",
+    "frame": "D:\\Codex\\aigc-i2v-prompt-memory\\07_LEARNING_PIPELINE\\web_sources\\20260629_bilibili_micro_expression_control\\frames\\selected\\t124_frame_0063.jpg",
+    "ok": true,
+    "ocr_text": "微表情万能提示词模板\n@[人物名称]原本保持[初始表情状态]\n听到/看到[触发事件]时，[具体部位，如眼神/眉毛/嘴角]微微[具体变化，如一动/收六/挑动]，[细节补\n充，如瞳孔瞬间收缩/嘴角快速闪过一丝笑意]\n随即立刻恢复原本的表情状态，变化极快，不易察党\n整体神态自然，符合人物人设，无夸张变形\nETE Sees\nPERU SCoe Sete hl Pact          Gea 3S. Daas |  saeeREkeAecsas | Ss",
+    "error": ""
+  },
+  {
+    "timestamp": 160,
+    "timestamp_hms": "02:40",
+    "frame": "D:\\Codex\\aigc-i2v-prompt-memory\\07_LEARNING_PIPELINE\\web_sources\\20260629_bilibili_micro_expression_control\\frames\\selected\\t160_frame_0081.jpg",
+    "ok": true,
+    "ocr_text": "多人场景表情万能提示词模板\n虚幻引擎UE5建模风格，高精度建模渲染，电影质感，光影写实\n@1 [场景参考图编号]，[扬景简要描述]                                                        机\n@2 [主角1名称]，[位置+朝向+动作]，表情: [详细拆解的主角表情，突出细节]，情绪强烈，画面视觉焦点      @\n@3 [主角2名称]，[位置+朝向+动作]，表情: [详细拆解的对手表情，突出反差]，情绪强度与主角匹配          =\n@4 [配角1名称]，[位置+朝向+动作]，表情: [符合人设的配角表情，适当简化]，适当虚化，不抢主体     @ 3\n@5 [配角2名称/道具]，[位置+状态]                                              @\n所有人物比例协调，透视正确，与场景融合自然，无穿模、无重倒                                、\n光影统一，真实皮肤纹理，无过度磨皮                                                    5\nbaa ANA",
+    "error": ""
+  },
+  {
+    "timestamp": 184,
+    "timestamp_hms": "03:04",
+    "frame": "D:\\Codex\\aigc-i2v-prompt-memory\\07_LEARNING_PIPELINE\\web_sources\\20260629_bilibili_micro_expression_control\\frames\\selected\\t184_frame_0093.jpg",
+    "ok": true,
+    "ocr_text": "5 fio\n你是一位专业的影视表情设计师，擅长为Al短剧人物设计符合剧情的表情描述。请根据以下要求，为每个分     你是一位]\n镜生成对应的详细表情提示词，要求拆解到眉毛、眼睛、嘴巴、面部肌肉四个部位，语言符合LibTV UE5写     情提示词，\n实风格，简洁精准，可直接复制使用。                                   STW\n人物: BE (BRE, AUIS) 、孙悟空 (MYERS, AIRSEMITER) 、猪八或 (人设贫生怕死、     镜头场景\n心虚呢贫)                                               要求: 突\n\nBAER:                                               同时添加有\n1.高老庄初次见面，两人对峙互放狠话\n2.孙悟空挥棒进攻，高以兰举戟格挡\n3. 猪八戒在旁边看热闹起哄，看到打起来又害怕\n4 RAINS, FRA SIRS\n5. 两人打平手，互相认可，略带欣赏",
+    "error": ""
+  },
+  {
+    "timestamp": 202,
+    "timestamp_hms": "03:22",
+    "frame": "D:\\Codex\\aigc-i2v-prompt-memory\\07_LEARNING_PIPELINE\\web_sources\\20260629_bilibili_micro_expression_control\\frames\\selected\\t202_frame_0102.jpg",
+    "ok": true,
+    "ocr_text": "ER\n你是一位专业的影视表情设计师，擅长为Al短剧人物设计符合剧情的表情描述。请根据以下要求，为每个分    (ne\n镜生成对应的详细表情提示词，要求拆解到眉毛、上眼睛、嘴巴、面部肌肉四个部位，语言符合LibTV UE5写     18\n实风格，简洁精准，可直接复制使用。                                   接必\n人物: BE (战神装，人设冷峻况爽) 、孙悟空 (龙鳞套装，人设条敬好战) 、猪八或 (人设令生怕死、     iS\nEOE)                                               要于\n分镜需求:                                                                   fa\n1.高老庄初次见面，两人对峙互放狠话\n2. 孙悟空挥棒进攻，高滩兰举戟格挡 C                               ©)\n\n3. 猪八戒在旁边看热闹起哄，看到打起来又害怕\n4, 天庭对峙，两人气场交锋\n5. 两人打平手，互相认可，略带欣赏\nBUTE\n4",
+    "error": ""
+  },
+  {
+    "timestamp": 214,
+    "timestamp_hms": "03:34",
+    "frame": "D:\\Codex\\aigc-i2v-prompt-memory\\07_LEARNING_PIPELINE\\web_sources\\20260629_bilibili_micro_expression_control\\frames\\selected\\t214_frame_0108.jpg",
+    "ok": true,
+    "ocr_text": "O@¢                       Oi x  ABEREUASHRA EH CRAR TSS (UbTV VESTED)                                     加 x\n@ Basa           ie                                          MB...                        ss\n升级后解矶新功解，沿豚对笑符自动代理                 «                       BE: RRL, ANRravarccr wt OS; A: RPA, PERRET A,\n二设计答。。 Ag天人仙人           RUSH): ME: MBA, HL, RRA: 面部所内; 硬朗闪内完全放松六咬:】 ot\n合出情的表情措述。消根据以下要求，为每个分镜生成对应            人     SUSE, BORO, FORE                      Fo Sect Fae\nCTHRRAMETID, BRM, NE, Mat PNT: MEERA, MAT.\n内名个部位，语言符合LibTV UE5写实风格，简法精准，可      BORE (AOA)\n人的: me                                jee vem) EEN, ARES ARR\n人物: RR (SHOR, ARO . HME eae      aad         ‘              7              '\nS, AAMT) MUR (AAR, OM)            an                ae\nDORR:                                Aine: Hie, mR      高以兰 (ARR OTE)\n1. EVAR, PARIS TEMAS                  WERE (UPR OREN)         ME: SN, MMA, MOMNLATEN; IRM: TRRSENRRIN, IATLBAIENE A\n后ss 全和    oe            HM (JME RRIF)        1%, MRD RM, PSE: RE: RCE, BEURIRIEN), ARO: ALA: See\nI) ESO,     REFER                                     DARARAKR, FRCT, TPIS LD, BEARER, FEtRALIMNM\n4. 天庭对峙，两人气场交锋                            将作或《旁观切见打斗前生                         BE,\nSAREE, TRAD, RE                   SHAS: 区/VE过内开战之       孙悟空 〈龙剖套装.条梧好战)\nBE: RRS FMM, MOR, UMM; MRT: SAND, ORILCK, MARR\n;                                                                B, MET, RAWRBR: RE: REA, FAO. TAEDA: MeN: 全\n我将严格贴合 LibTV UES BARA, US, WR. RE. READE                              脸志内凯紧发力，蛟肌极度隆起，醒科扒肉向内收尝，面部爆发力极强，悍勇好战\n位拆分，贴合三人国定人设，才配 ADMIRER, OSIM MS\nSHER, SERMONS.                                                         猪八戒 (湾观初见打斗，戎生层意】\nBE: LGMLOMA TR, MOL; OWN: MERMAID, MERI, NORA, BL\nfy MMREIRRIRA rmETCRMDT (                                             ALG; RE: LOOT, RETRRIER, BRAM: Me: eA\n:                                                               SEO, FORMAN, MBER, MURR\nSUBRARIRN >\n分镜3: ESM, ARR (单人分镜表情)\nRE: ERNIE LEIS\npana ZV eo Uh  WE NEST et\nDET eel pais  i\n> tn  OQwmsy OQPrrste Ry          ©)                                            —     —_   —           站\n基础文字拆解控制氏物表悄                         RR OE SNS RN Ia       向色全在方法“| 总攻",
+    "error": ""
+  },
+  {
+    "timestamp": 236,
+    "timestamp_hms": "03:56",
+    "frame": "D:\\Codex\\aigc-i2v-prompt-memory\\07_LEARNING_PIPELINE\\web_sources\\20260629_bilibili_micro_expression_control\\frames\\selected\\t236_frame_0119.jpg",
+    "ok": true,
+    "ocr_text": "个分       你是一位顶级影视表情指导，擅长设计电影级人物微表情与情绪变化。请为以下Al短剧镜头生成高精度表\n\nE5写       情提示词，要求包含情绪层次、肌肉动态、微表情变化，适配LibTV Seedance2.0模型，写实风格，可直\n接用于视频生成。\n\n死、       镜头场景: [天庭云海，孙悟空与高翠兰兵器碰撞瞬间的双人表情特写]\nBr: 突出瞬间的力量感与情绪张力，两个人物表情形成反差，细节精准到眼部肌肉、面部纹路的变化，\n同时添加表情过渡的动态描述。",
+    "error": ""
+  },
+  {
+    "timestamp": 260,
+    "timestamp_hms": "04:20",
+    "frame": "D:\\Codex\\aigc-i2v-prompt-memory\\07_LEARNING_PIPELINE\\web_sources\\20260629_bilibili_micro_expression_control\\frames\\selected\\t260_frame_0131.jpg",
+    "ok": true,
+    "ocr_text": "本5    =n                                                                                          ave\nae                                               s\n基础表情万能提示词模板 〈单人物)                              \\    =       ¥,          ,       iy,      也\nCERO, (RUSHRIRE                                                           Pe                   sy\n@2 (AREIGI, (URALOI + BAD + StF                                                          Kt        a\nQUST: MB PUCHTS, SOMME FE), IES. SMT IRIORIE/UEE HT),                  Wi                六\nMEIUEKS, ORRIN), HINA, MORGAN)                                :        Ce\nSES: (OMMOI, SOIREE)                                                       \"              P\nABER, BR. RASPYERS-R. BW. KIM                                              i             ss\nHESS, WRU, LOA                                                      i                 .\nxs                                                                      on\nSOSIRVESRUG, RUMEN, WAS, KEG\n@1 RENE ITERUER, -LINLIOIETS, MADAMA, INNER\nO2WELLMR, VERESUENZ—H, HEPRTAN, NIMAMORE\nRES: ERATE, MORAVIA, RUNRTUG, RON, ATS, MOR     S         —\nBRL, FREY, ESAS, AWM                                                        页\n整体铺络: BEM, ALT                                a    ern)  P\nABER, BA. ROWS VERS, EME, EWM                         |                    区\nHERR, WERE, LUA:                                                             ;                                     CE\n@@3 MRAM, VEMNENENZ—, AMSA, MEM= LUM                    eat      Se                  pe       or      %\nLAS: REPRE. OKI, MUEAILLI, NIRS, SR RIEIR. HRSA          oa ae               4          ‘\nK, REMAKE, HOMAGS                            -      a       a           ww\nRUSE: HOMER, REANIM                          ©      入       一      4a~           ¢\nAMER, 2, SLUGS WBRS—, EV. KE:                                          }         :      wf                            >\nC4 M/E, EAAD RED, RMOSARD, ASAT                               3      TR ee ee       ,\nRAS: SOR, ANE, PALM, MONI, MAMIE. ERS                fl \\       se Y\nSSWIA: 心虚观坦，伯被波及                                       n’      Bi cas\nAtte, UMN, RELIES;                                       本         Abs                              got,\nieee eva 能词组模板\npee aE               [Ee | ee es",
+    "error": ""
+  }
+]

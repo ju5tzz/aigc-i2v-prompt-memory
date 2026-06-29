@@ -20,6 +20,7 @@
 - 可复用经验：沉淀到 `05_FEEDBACK_MEMORY/`。
 - 已验证的新规则：更新到 `01_ACTIVE_RULES/`。
 - 模板层面的改进：更新到 `02_TEMPLATES/`。
+- Skill 层面的改进：同步本机 Skill 到 `09_SKILLS/`，并在完成后提交、推送到 GitHub。
 
 ## 当前版本
 
@@ -45,6 +46,9 @@ i2v-prompt-memory/
   04_CASE_LIBRARY/
   05_FEEDBACK_MEMORY/
   06_ASSET_NOTES/
+  07_LEARNING_PIPELINE/
+  08_AB_TESTS/
+  09_SKILLS/
   99_SOURCE_DOCS/
 ```
 

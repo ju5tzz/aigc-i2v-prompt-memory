@@ -17,6 +17,7 @@
 ```text
 07_LEARNING_PIPELINE/
   README.md
+  INDEX.md
   video_urls.md
   VIDEO_LEARNING_RECORD_TEMPLATE.md
   transcripts/
@@ -27,6 +28,7 @@
 ```
 
 - `video_urls.md`：记录待学习、已学习、待复核的视频链接。
+- `INDEX.md`：记录已归档资料、结论状态和可回查文件。
 - `transcripts/`：保存字幕或转录文本。
 - `summaries/`：保存视频内容摘要。
 - `extracted_rules/`：保存从视频中提炼出的待验证经验。
@@ -118,6 +120,8 @@ YYYYMMDD_platform_short-title_transcript.md
 ```text
 01_ACTIVE_RULES/
 ```
+
+如果用户明确要求某条外部经验进入 Codex Skill，则同步更新对应 Skill，并在 `INDEX.md` 和 `video_urls.md` 标记为“可升级 / 已归档”。
 
 未经实测反馈，不允许直接修改 `01_ACTIVE_RULES/`。
 

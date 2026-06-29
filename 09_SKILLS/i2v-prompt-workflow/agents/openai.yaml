@@ -1,0 +1,4 @@
+interface:
+  display_name: "I2V 提示词工作流"
+  short_description: "撰写经过规则约束的 I2V 短剧提示词。"
+  default_prompt: "使用这个技能，把剧本、故事板或 I2V 想法转成只包含提示词正文层的视频提示词；同时判断前置信息、环境参与、镜头节奏和人物表情层。"

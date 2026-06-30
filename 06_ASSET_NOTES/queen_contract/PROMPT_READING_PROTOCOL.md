@@ -13,7 +13,8 @@
 3. `06_ASSET_NOTES/queen_contract/CHARACTER_BIBLE.md`
 4. `06_ASSET_NOTES/queen_contract/CONTINUITY_LEDGER.md`
 5. `06_ASSET_NOTES/queen_contract/EPISODE_INDEX.md` 中第 N 集及前后一集
-6. `00 FILES/projects/queen_contract/episodes/EP{N:03}.md`
+6. 涉及原始生成片段评估、粗剪、精剪或后期执行表时，读取 `06_ASSET_NOTES/queen_contract/PRODUCTION_WORKFLOW.md`
+7. `00 FILES/projects/queen_contract/episodes/EP{N:03}.md`
 
 ## 什么时候追加读取
 
@@ -22,6 +23,7 @@
 - 如果涉及某个长线道具或状态：读 `CONTINUITY_LEDGER.md` 对应段落。
 - 如果是新角色首次出场或关系反转：读 `CHARACTER_BIBLE.md` 对应角色。
 - 如果用户给了新的分镜稿、故事板或反馈：以用户最新文件覆盖这里的旧索引。
+- 如果用户给了原始生成片段、视频截图、配音或粗剪版本：追加读取 `PRODUCTION_WORKFLOW.md`，优先做素材盘点、剧本对齐和剪辑时间线方案。
 
 ## 写提示词前的判断
 
